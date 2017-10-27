@@ -1,0 +1,12 @@
+{
+  "name": "phonebook",
+  "version": "1.0.0",
+  "description": "Test application",
+  "scripts": {
+    "test": "node test/all.js"
+  },
+  "devDependencies": {
+    "should": ">=13.1.2",
+    "faker": "^4.1.0"
+  }
+}
